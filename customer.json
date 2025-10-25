@@ -1,0 +1,21 @@
+{
+    "gender": "male",
+    "seniorcitizen": 1,
+    "partner": "yes",
+    "dependents": "no",
+    "phoneservice": "no",
+    "multiplelines": "no",
+    "internetservice": "fiber_optic",
+    "onlinesecurity": "no",
+    "onlinebackup": "no",
+    "deviceprotection": "yes",
+    "techsupport": "no",
+    "streamingtv": "yes",
+    "streamingmovies": "yes",
+    "contract": "one_year",
+    "paperlessbilling": "no",
+    "paymentmethod": "credit_card_(automatic)",
+    "tenure": 12,
+    "monthlycharges": 20.35,
+    "totalcharges": 152.1
+}
